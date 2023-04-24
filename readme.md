@@ -3,7 +3,7 @@
 
 <div align="center">
   <p align="center">
-    A simple Book Store web app with Node.JS backened and vanilla JS/HTML/CSS.
+    A simple Book Store web app Node.JS backened 
   </p>
 </div>
 <hr>
