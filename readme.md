@@ -27,17 +27,9 @@ Additionally the application has basic authentication and authorization function
 -   [Mongoose (ODM)](https://mongoosejs.com/)
 -   [JWT](https://www.npmjs.com/package/jsonwebtoken)
 -   [Validator.js](https://www.npmjs.com/package/validator)
--   [HBS](https://www.npmjs.com/package/hbs)
 <hr>
-<h2 align="center">Demo Videos</h2>
 
-**Demo User**
 
-https://user-images.githubusercontent.com/92792238/165280946-6a40d6f2-919a-4130-ad8e-2a3846595341.mp4
-
-**Demo Admin**
-
-https://user-images.githubusercontent.com/92792238/165281695-d9afc575-3c85-4675-b3ac-bfe23b0e4217.mp4
 
 
 
